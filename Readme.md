@@ -3,6 +3,7 @@
 
 # 설치방법
 ```sh
+kubectl create ns monitoring
 kubectl apply -f .
 ```
 
